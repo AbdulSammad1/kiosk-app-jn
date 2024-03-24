@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418205475908",
+    "project_id": "food-kiosk-398e7",
+    "storage_bucket": "food-kiosk-398e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418205475908:android:6a5e37f84c55f8a9ee8811",
+        "android_client_info": {
+          "package_name": "com.example.fyp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG6me6I24_ES4W255WG16DquunUYkaEcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418205475908:android:dd2388c90cffd8ffee8811",
+        "android_client_info": {
+          "package_name": "com.example.kiosk_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG6me6I24_ES4W255WG16DquunUYkaEcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
